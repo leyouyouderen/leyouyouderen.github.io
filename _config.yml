@@ -84,7 +84,7 @@ author:
   avatar           : "post.jpg"
   bio              : "Ph.D. Student\B. Thomas Golisano College of Computing and Information Sciences\Rochester Institute of Technology\102 Lomb Memorial Drive, Rochester, NY 14623, United States"
   location         : "Location"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=nAPZIPsAAAAJ&hl=en"
   email            : "ws7586@rit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/leyouyouderen"
   google_plus      :
   keybase          :
   instagram        :
