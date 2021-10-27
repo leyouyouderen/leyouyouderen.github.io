@@ -6,7 +6,7 @@ excerpt: 'We focus on using natural language unstructured textual Knowledge Base
 date: 2019-5-1
 venue: 'ACM Transactions on Internet Technology (TOIT) 2019'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3319528'
-citation: 'Lima, Eduardo, et al. "Integrating multi-level tag recommendation with external knowledge bases for automatic question answering." ACM Transactions on Internet Technology (TOIT) 19.3 (2019): 1-22.’
+citation: 'Lima, Eduardo, et al. "Integrating multi-level tag recommendation with external knowledge bases for automatic question answering." ACM Transactions on Internet Technology (TOIT) 19.3 (2019): 1-22.'
 ---
 
 [Download](https://dl.acm.org/doi/pdf/10.1145/3319528)
