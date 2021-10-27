@@ -6,7 +6,7 @@ excerpt: 'Using web services as building blocks to develop software applications
 date: 2020-7-1
 venue: ' Expert Systems with Applications(2020)'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0957417420300579'
-citation: 'Alshangiti, Moayad, et al. "A Bayesian learning model for design-phase service mashup popularity prediction." Expert Systems with Applications 149 (2020): 113231.
+citation: 'Alshangiti, Moayad, et al. "A Bayesian learning model for design-phase service mashup popularity prediction." Expert Systems with Applications 149 (2020): 113231.'
 ---
 
 [Download](https://reader.elsevier.com/reader/sd/pii/S0957417420300579?token=F92FE321434323747B41AFCA26ABBF00852F70115592EBB980B158BDF7C2087A878D43235A19ACCD02AE1F22174278B3&originRegion=us-east-1&originCreation=20211027153546)
