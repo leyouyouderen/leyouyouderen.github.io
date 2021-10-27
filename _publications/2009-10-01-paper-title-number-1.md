@@ -8,5 +8,6 @@ venue: 'Neural Information Processing Systems (NIPS) '
 paperurl: 'Coming soon'
 citation: 'Shi, Weishi, et al. "Multifaceted uncertainty estimation for label-efficient deep learning." Advances in Neural Information Processing Systems 33 (2021).'
 ---
+
 [Download link is coming soon](https://scholar.google.com/citations?user=nAPZIPsAAAAJ&hl=en)
 
