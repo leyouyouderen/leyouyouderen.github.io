@@ -22,7 +22,7 @@ demonstrate the effectiveness of the proposed model.'
 date: 2019-1-1
 venue: 'Neural Information Processing Systems (NIPS) 2019'
 paperurl: 'https://par.nsf.gov/servlets/purl/10164667'
-citation: 'Shi, Weishi, and Qi Yu. "Integrating bayesian and discriminative sparse kernel machines for multi-class active learning." Advances in neural information processing systems (2019)’
+citation: 'Shi, Weishi, and Qi Yu. "Integrating bayesian and discriminative sparse kernel machines for multi-class active learning." Advances in neural information processing systems (2019)'
 ---
 
 [Download](https://par.nsf.gov/servlets/purl/10164667)
