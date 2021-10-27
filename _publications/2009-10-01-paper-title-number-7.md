@@ -6,7 +6,7 @@ excerpt: 'We focus on using natural language unstructured textual Knowledge Base
 date: 2018-11-1
 venue: 'IEEE International Conference on Data Mining (ICDM) 2018'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594973'
-citation: 'Shi, Weishi, and Qi Yu. "An Efficient Many-Class Active Learning Framework for Knowledge-Rich Domains." 2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018.’
+citation: 'Shi, Weishi, and Qi Yu. "An Efficient Many-Class Active Learning Framework for Knowledge-Rich Domains." 2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018.'
 ---
 
 [Download](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594973)
