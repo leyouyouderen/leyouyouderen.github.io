@@ -14,10 +14,10 @@ My research focuses on [active learning](https://en.wikipedia.org/wiki/Active_le
 
 Publications
 ======
-*pub1
-*pub2
-*pub3
-*pub4
+* pub1
+* pub2
+* pub3
+* pub4
 
 
 Academic Services
