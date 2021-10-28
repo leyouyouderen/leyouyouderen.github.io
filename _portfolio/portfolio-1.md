@@ -1,12 +1,9 @@
 ---
 title: "2021"
-excerpt: "
-* a sssddd
-* b dsdsds
-* c dsdsds
-* d dsdaqq
-
-"
+* pub1
+* pub2
+* pub3
+* pub4
 collection: portfolio
 ---
 
