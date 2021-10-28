@@ -39,5 +39,11 @@ redirect_from:
 * Advanced Distribution Management Systems(ADMS):subreviewer
 
 ## Year of 2017
+* Big Data and Applications (BDAP): subreviewer
+* International Conference on Information Reuse & Integration for Data Science(IRI):subreviewer
+* International Conference on Service Oriented Computing(ICSOC):subreviewer
+* IEEE Transactions on Services Computing(TSC):subreviewer
+* International Conference on Advanced Data Mining and Applications(ADMA):subreviewer
+* IEEE International Conference on Web Services (ICWS): Student volunteer
 
 
