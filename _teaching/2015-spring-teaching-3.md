@@ -1,5 +1,5 @@
 ---
-title: "Analytical Thinking"
+title: "Analytical Thinking ISTE 600-01 (80865)"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2014-spring-teaching-3
