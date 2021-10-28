@@ -1,4 +1,3 @@
-
 ---
 permalink: /as/
 title: "Acedimic Service"
