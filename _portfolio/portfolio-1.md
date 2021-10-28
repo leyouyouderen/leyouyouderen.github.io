@@ -1,7 +1,6 @@
 ---
 title: "2021"
 excert:"abv"
-
 collection: portfolio
 ---
 ======
