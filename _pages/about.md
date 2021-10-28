@@ -31,3 +31,7 @@ Teaching Experience
 * a
 * b
 * c
+
+CV
+======
+ [See my CV here](/files/mycv.pdf)
