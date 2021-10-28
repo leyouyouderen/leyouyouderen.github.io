@@ -14,9 +14,9 @@ My research focuses on [active learning](https://en.wikipedia.org/wiki/Active_le
 
 Publications
 ======
-* Shi, Weishi, et.al. "A Gaussian Process-Bayesian Bernoulli Mixture Model for Multi-Label Active Learning". Neural Information Processing Systems (NIPS) 2021 
-* Shi, Weishi, \& Yu, Qi. "Active Learning with Maximum Margin Sparse Gaussian Processes". International Conference on Artificial Intelligence and Statistics (AISTATS) 2021
-* Shi, Weishi, et.al. "Multifaceted Uncertainty Estimation for Label-Efficient Deep Learning". Neural Information Processing Systems (NIPS) 2020
+* Shi, Weishi, et.al. *"A Gaussian Process-Bayesian Bernoulli Mixture Model for Multi-Label Active Learning"*. Neural Information Processing Systems (NIPS) 2021 
+* Shi, Weishi, \& Yu, Qi. *"Active Learning with Maximum Margin Sparse Gaussian Processes"*. International Conference on Artificial Intelligence and Statistics (AISTATS) 2021
+* Shi, Weishi, et.al. *"Multifaceted Uncertainty Estimation for Label-Efficient Deep Learning"*. Neural Information Processing Systems (NIPS) 2020
 * Moayad Alshangiti, Shi, Weishi, et.al. "A Bayesian learning model for design-phase service mashup popularity prediction" Expert Systems with Applications (ESWA) 2020
 * Shi, Weishi, et.al. "Presenting and Evaluating the Impact of Experiential Learning in Computing Accessibility Education" International Conference on Software Engineering (ICSE) 2020 
 * Shi, Weishi, \& Yu, Qi. "Integrating Generative and Discriminative Sparse Kernel Machines for Multi-class Active Learning".
