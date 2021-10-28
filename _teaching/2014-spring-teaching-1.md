@@ -8,7 +8,7 @@ date: 2020-01-01
 location: "Golisano Hall (GOL)-2520, RIT"
 ---
 
-
+Click the title for more details.
 
 Responsibility
 ======
