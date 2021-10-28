@@ -9,6 +9,7 @@ location: "Golisano Hall (GOL)-2520, RIT"
 ---
 
 
+
 Responsibility
 ======
 * Deliver the primary material through in-class lectures.
