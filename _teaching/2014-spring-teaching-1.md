@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Process Technologies ISTE 612-01(12512)"
 collection: teaching
-type: "Graduate course"
+type: "Graduate Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Lecturer"
 date: 2020-01-01
