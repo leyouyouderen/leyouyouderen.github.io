@@ -5,16 +5,10 @@ main:
 
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Academic Service"
-    url: /as/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+    url: /teaching/        
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Academic Service"
     url: /markdown/
