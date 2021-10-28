@@ -25,7 +25,7 @@ modeling, storing, searching, and retrieval technologies, data and text analytic
 extraction, and Internet middleware technologies to access and deliver data and
 knowledge. Prerequisites: (One year of programming in an object-oriented language, a
 database theory course, a course in Web development, and a statistics course). 
-
+ 
 Course Syllabus
 ======
 [ISTE-612-Syllabus](/files/612.pdf)
