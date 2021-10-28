@@ -1,13 +1,13 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Academic Service"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Aha
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
