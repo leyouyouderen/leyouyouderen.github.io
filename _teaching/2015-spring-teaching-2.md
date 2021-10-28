@@ -7,6 +7,7 @@ venue: "Lecturer"
 date: 2019-01-01
 location: "online"
 ---
+Click the title for more details.
 
 Responsibility
 ======
