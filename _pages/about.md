@@ -72,9 +72,16 @@ Academic Services
 
 Teaching Experience
 ======
-* a
-* b
-* c
+* Knowledge Process Technologies (ISTE 612-01)
+  * Graduate course, Data mining basics.
+  * 2020, Lecturer, In person.
+* Knowledge Process Technologies (ISTE 612-01)
+  * Graduate course, Information retrieval and machine learning basics. 
+  * 2019,Lecturer, Online
+* Analytical Thinking (ISTE 600-01)
+  * Graduate course, Data mining basics.
+  * 2017,Lecturer, In person
+* Data-Driven Knowledge Discovery (ISTE 780-01)
 
 CV
 ======
