@@ -1,5 +1,5 @@
 ---
-title: "TKnowledge Process Technologies ISTE 612-01(80582)"
+title: "Knowledge Process Technologies ISTE 612-01(80582)"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-2
