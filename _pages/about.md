@@ -73,16 +73,19 @@ Academic Services
 Teaching Experience
 ======
 * Knowledge Process Technologies (ISTE 612-01)
-  * Graduate course, Data mining basics.
-  * 2020, Lecturer, In person.
+  * Graduate course, Data mining basics. In person.
+  * 2020, Lecturer
+  * 2017-2020 Teaching assistant
 * Knowledge Process Technologies (ISTE 612-01)
-  * Graduate course, Information retrieval and machine learning basics. 
-  * 2019,Lecturer, Online
+  * Graduate course, Information retrieval and machine learning basics. Online
+  * 2019,Lecturer
 * Analytical Thinking (ISTE 600-01)
-  * Graduate course, Data mining basics.
-  * 2017,Lecturer, In person
+  * Graduate course, Data mining basics, In person
+  * 2017,Lecturer
+  * 2018-2020, Teaching assistant
 * Data-Driven Knowledge Discovery (ISTE 780-01)
-
+  * Graduate course, Machine mining basics, In person
+  * 2017-2020, Teaching assistant
 CV
 ======
  [See my CV here](/files/mycv.pdf)
