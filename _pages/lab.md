@@ -1,6 +1,6 @@
 
 ---
-permalink: /markdown/
+permalink: /lab/
 title: "Active Machine Learning Lab"
 author_profile: true
 redirect_from: 
